@@ -1,106 +1,106 @@
 {
-  "versao": "1.0.0",
-  "minecraft": "26.1.2",
-  "modloader": "neoforge",
-  "mods": [
-    {
-      "nome": "FastFurnace-26.1.2-10.0.0.jar",
-      "tamanho": 4547,
-      "sha256": "c3fa81c5725a9ea7d33f5e925e1d458df5f8cb21c4301cab0e1d551cd0fc95bc",
-      "url": "https://cdn.modrinth.com/data/9X0318ev/versions/rdeBAwZw/FastFurnace-26.1.2-10.0.0.jar",
-      "ids": [
-        "fastfurnace"
-      ]
-    },
-    {
-      "nome": "FastSuite-26.1.2-7.0.0.jar",
-      "tamanho": 17905,
-      "sha256": "f03a1f4f7f9d65a76c451792542f2173a74ef21d5ef8be8b8c6f7577f203a7ee",
-      "url": "https://cdn.modrinth.com/data/roccmqou/versions/EpILnClf/FastSuite-26.1.2-7.0.0.jar",
-      "ids": [
-        "fastsuite"
-      ]
-    },
-    {
-      "nome": "FastWorkbench-26.1.2-10.0.0.jar",
-      "tamanho": 27679,
-      "sha256": "aebf738cd92ff4fb466e312dd607d18a24b748ccd177dfd05a7dfca2c48a7a3a",
-      "url": "https://cdn.modrinth.com/data/5NYPwQRn/versions/5a0ClntQ/FastWorkbench-26.1.2-10.0.0.jar",
-      "ids": [
-        "fastbench"
-      ]
-    },
-    {
-      "nome": "ferritecore-9.0.0-neoforge.jar",
-      "tamanho": 71947,
-      "sha256": "a3292dadb1caf7ad220d3a4b68abff2ad58592ddd372160f9cf66c57d159b539",
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/LtVvw4uS/ferritecore-9.0.0-neoforge.jar",
-      "ids": [
-        "ferritecore"
-      ]
-    },
-    {
-      "nome": "lithium-neoforge-0.24.7+mc26.1.2.jar",
-      "tamanho": 904051,
-      "sha256": "814b1afb97522066b83d82d76ea8150e3de03a7e346593d3e4380368972f4337",
-      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/eZ0KJiEA/lithium-neoforge-0.24.7%2Bmc26.1.2.jar",
-      "ids": [
-        "lithium"
-      ]
-    },
-    {
-      "nome": "modernfix-neoforge-5.27.27+mc26.1.2.jar",
-      "tamanho": 529390,
-      "sha256": "d6e9c95e173089029c54d4985d4bd89c11260b60707a1e5cff92ec22eb078329",
-      "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/J49h1v4I/modernfix-neoforge-5.27.27%2Bmc26.1.2.jar",
-      "ids": [
-        "modernfix"
-      ]
-    },
-    {
-      "nome": "packetfixer-neoforge-3.3.4-26.1.jar",
-      "tamanho": 29133,
-      "sha256": "20b292a42573995efb6b1842114476dd934c3b8edfe478a0af3327a21419c69a",
-      "url": "https://www.curseforge.com/api/v1/mods/689467/files/7812297/download",
-      "ids": [
-        "packetfixer"
-      ]
-    },
-    {
-      "nome": "Placebo-26.1.2-10.0.2.jar",
-      "tamanho": 363015,
-      "sha256": "a328ba5ec1b291e2afd87f42ad43491f55dcdd353ee757e96c2e02c3c0a34b3a",
-      "url": "https://cdn.modrinth.com/data/tCkE8p2N/versions/c4uzJQYp/Placebo-26.1.2-10.0.2.jar",
-      "ids": [
-        "placebo"
-      ]
-    },
-    {
-      "nome": "quick-pack-neoforge-1.5.1+26.1.2.jar",
-      "tamanho": 21768,
-      "sha256": "6457af008f9c8d32420c7b1053fd99c8399d7a47c6e021348b13b7674146110d",
-      "url": "https://cdn.modrinth.com/data/pSISfJ4O/versions/ZUiulvtg/quick-pack-neoforge-1.5.1%2B26.1.2.jar",
-      "ids": [
-        "quick_pack"
-      ]
-    },
-    {
-      "nome": "ScalableLux-0.2.0+neoforge.cd0897f-all.jar",
-      "tamanho": 184270,
-      "sha256": "c0ab35ba7e01cfe877d87ff616bf8bc3b2158ca4b8e7100d70bffaf1e8d81fa1",
-      "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/yUKGUtvc/ScalableLux-0.2.0%2Bneoforge.cd0897f-all.jar",
-      "ids": [
-        "scalablelux"
-      ]
-    },
-    {
-      "nome": "spark-1.10.187-neoforge.jar",
-      "tamanho": 3910570,
-      "sha256": "88e7cc1a9ecd4c9ad22434fe2f168155baeb0ce2afba0a30269e542602e9d442",
-      "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/HwHxykP9/spark-1.10.187-neoforge.jar",
-      "ids": [
-        "spark"
-      ]
-    }
-  ]
+    "versao":  "1.0.0",
+    "minecraft":  "26.1.2",
+    "modloader":  "neoforge",
+    "mods":  [
+                 {
+                     "nome":  "FastFurnace-26.1.2-10.0.0.jar",
+                     "tamanho":  4547,
+                     "sha256":  "c3fa81c5725a9ea7d33f5e925e1d458df5f8cb21c4301cab0e1d551cd0fc95bc",
+                     "url":  "https://cdn.modrinth.com/data/9X0318ev/versions/rdeBAwZw/FastFurnace-26.1.2-10.0.0.jar",
+                     "ids":  [
+                                 "fastfurnace"
+                             ]
+                 },
+                 {
+                     "nome":  "FastSuite-26.1.2-7.0.0.jar",
+                     "tamanho":  17905,
+                     "sha256":  "f03a1f4f7f9d65a76c451792542f2173a74ef21d5ef8be8b8c6f7577f203a7ee",
+                     "url":  "https://cdn.modrinth.com/data/roccmqou/versions/EpILnClf/FastSuite-26.1.2-7.0.0.jar",
+                     "ids":  [
+                                 "fastsuite"
+                             ]
+                 },
+                 {
+                     "nome":  "FastWorkbench-26.1.2-10.0.0.jar",
+                     "tamanho":  27679,
+                     "sha256":  "aebf738cd92ff4fb466e312dd607d18a24b748ccd177dfd05a7dfca2c48a7a3a",
+                     "url":  "https://cdn.modrinth.com/data/5NYPwQRn/versions/5a0ClntQ/FastWorkbench-26.1.2-10.0.0.jar",
+                     "ids":  [
+                                 "fastbench"
+                             ]
+                 },
+                 {
+                     "nome":  "ferritecore-9.0.0-neoforge.jar",
+                     "tamanho":  71947,
+                     "sha256":  "a3292dadb1caf7ad220d3a4b68abff2ad58592ddd372160f9cf66c57d159b539",
+                     "url":  "https://cdn.modrinth.com/data/uXXizFIs/versions/LtVvw4uS/ferritecore-9.0.0-neoforge.jar",
+                     "ids":  [
+                                 "ferritecore"
+                             ]
+                 },
+                 {
+                     "nome":  "lithium-neoforge-0.24.7+mc26.1.2.jar",
+                     "tamanho":  904051,
+                     "sha256":  "814b1afb97522066b83d82d76ea8150e3de03a7e346593d3e4380368972f4337",
+                     "url":  "https://cdn.modrinth.com/data/gvQqBUqZ/versions/eZ0KJiEA/lithium-neoforge-0.24.7%2Bmc26.1.2.jar",
+                     "ids":  [
+                                 "lithium"
+                             ]
+                 },
+                 {
+                     "nome":  "modernfix-neoforge-5.27.27+mc26.1.2.jar",
+                     "tamanho":  529390,
+                     "sha256":  "d6e9c95e173089029c54d4985d4bd89c11260b60707a1e5cff92ec22eb078329",
+                     "url":  "https://cdn.modrinth.com/data/nmDcB62a/versions/J49h1v4I/modernfix-neoforge-5.27.27%2Bmc26.1.2.jar",
+                     "ids":  [
+                                 "modernfix"
+                             ]
+                 },
+                 {
+                     "nome":  "packetfixer-neoforge-3.3.4-26.1.jar",
+                     "tamanho":  29133,
+                     "sha256":  "20b292a42573995efb6b1842114476dd934c3b8edfe478a0af3327a21419c69a",
+                     "url":  "https://www.curseforge.com/api/v1/mods/689467/files/7812297/download",
+                     "ids":  [
+                                 "packetfixer"
+                             ]
+                 },
+                 {
+                     "nome":  "Placebo-26.1.2-10.0.2.jar",
+                     "tamanho":  363015,
+                     "sha256":  "a328ba5ec1b291e2afd87f42ad43491f55dcdd353ee757e96c2e02c3c0a34b3a",
+                     "url":  "https://cdn.modrinth.com/data/tCkE8p2N/versions/c4uzJQYp/Placebo-26.1.2-10.0.2.jar",
+                     "ids":  [
+                                 "placebo"
+                             ]
+                 },
+                 {
+                     "nome":  "quick-pack-neoforge-1.5.1+26.1.2.jar",
+                     "tamanho":  21768,
+                     "sha256":  "6457af008f9c8d32420c7b1053fd99c8399d7a47c6e021348b13b7674146110d",
+                     "url":  "https://cdn.modrinth.com/data/pSISfJ4O/versions/ZUiulvtg/quick-pack-neoforge-1.5.1%2B26.1.2.jar",
+                     "ids":  [
+                                 "quick_pack"
+                             ]
+                 },
+                 {
+                     "nome":  "ScalableLux-0.2.0+neoforge.cd0897f-all.jar",
+                     "tamanho":  184270,
+                     "sha256":  "c0ab35ba7e01cfe877d87ff616bf8bc3b2158ca4b8e7100d70bffaf1e8d81fa1",
+                     "url":  "https://cdn.modrinth.com/data/Ps1zyz6x/versions/yUKGUtvc/ScalableLux-0.2.0%2Bneoforge.cd0897f-all.jar",
+                     "ids":  [
+                                 "scalablelux"
+                             ]
+                 },
+                 {
+                     "nome":  "spark-1.10.187-neoforge.jar",
+                     "tamanho":  3910570,
+                     "sha256":  "88e7cc1a9ecd4c9ad22434fe2f168155baeb0ce2afba0a30269e542602e9d442",
+                     "url":  "https://cdn.modrinth.com/data/l6YH9Als/versions/HwHxykP9/spark-1.10.187-neoforge.jar",
+                     "ids":  [
+                                 "spark"
+                             ]
+                 }
+             ]
 }
