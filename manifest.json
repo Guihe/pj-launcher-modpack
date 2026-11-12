@@ -130,15 +130,6 @@
       ]
     },
     {
-      "nome": "accelerated-decay-neoforge-26.1.2.4.jar",
-      "tamanho": 10544,
-      "sha256": "581ec979c1f0665241de5a4611f9111c61b41d90141415b9bcae6363bd23a356",
-      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/accelerated-decay-neoforge-26.1.2.4.jar",
-      "ids": [
-        "accelerateddecay"
-      ]
-    },
-    {
       "nome": "fast-ip-ping-v1.0.12-mc26.1.2.jar",
       "tamanho": 11321,
       "sha256": "820a4503c2b4677e97fd485111936a404815e5f3ef96546c49e6da98abfed019",
