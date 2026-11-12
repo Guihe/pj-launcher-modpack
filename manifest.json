@@ -31,6 +31,24 @@
       ]
     },
     {
+      "nome": "Placebo-26.1.2-10.0.2.jar",
+      "tamanho": 363015,
+      "sha256": "a328ba5ec1b291e2afd87f42ad43491f55dcdd353ee757e96c2e02c3c0a34b3a",
+      "url": "https://cdn.modrinth.com/data/tCkE8p2N/versions/c4uzJQYp/Placebo-26.1.2-10.0.2.jar",
+      "ids": [
+        "placebo"
+      ]
+    },
+    {
+      "nome": "ScalableLux-0.2.0+neoforge.cd0897f-all.jar",
+      "tamanho": 184270,
+      "sha256": "c0ab35ba7e01cfe877d87ff616bf8bc3b2158ca4b8e7100d70bffaf1e8d81fa1",
+      "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/yUKGUtvc/ScalableLux-0.2.0%2Bneoforge.cd0897f-all.jar",
+      "ids": [
+        "scalablelux"
+      ]
+    },
+    {
       "nome": "ferritecore-9.0.0-neoforge.jar",
       "tamanho": 71947,
       "sha256": "a3292dadb1caf7ad220d3a4b68abff2ad58592ddd372160f9cf66c57d159b539",
@@ -67,30 +85,12 @@
       ]
     },
     {
-      "nome": "Placebo-26.1.2-10.0.2.jar",
-      "tamanho": 363015,
-      "sha256": "a328ba5ec1b291e2afd87f42ad43491f55dcdd353ee757e96c2e02c3c0a34b3a",
-      "url": "https://cdn.modrinth.com/data/tCkE8p2N/versions/c4uzJQYp/Placebo-26.1.2-10.0.2.jar",
-      "ids": [
-        "placebo"
-      ]
-    },
-    {
       "nome": "quick-pack-neoforge-1.5.1+26.1.2.jar",
       "tamanho": 21768,
       "sha256": "6457af008f9c8d32420c7b1053fd99c8399d7a47c6e021348b13b7674146110d",
       "url": "https://cdn.modrinth.com/data/pSISfJ4O/versions/ZUiulvtg/quick-pack-neoforge-1.5.1%2B26.1.2.jar",
       "ids": [
         "quick_pack"
-      ]
-    },
-    {
-      "nome": "ScalableLux-0.2.0+neoforge.cd0897f-all.jar",
-      "tamanho": 184270,
-      "sha256": "c0ab35ba7e01cfe877d87ff616bf8bc3b2158ca4b8e7100d70bffaf1e8d81fa1",
-      "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/yUKGUtvc/ScalableLux-0.2.0%2Bneoforge.cd0897f-all.jar",
-      "ids": [
-        "scalablelux"
       ]
     },
     {
@@ -127,6 +127,69 @@
       "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/productivebees-26.1.2-15.5.0.jar",
       "ids": [
         "productivebees"
+      ]
+    },
+    {
+      "nome": "accelerated-decay-neoforge-26.1.2.4.jar",
+      "tamanho": 10544,
+      "sha256": "581ec979c1f0665241de5a4611f9111c61b41d90141415b9bcae6363bd23a356",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/accelerated-decay-neoforge-26.1.2.4.jar",
+      "ids": [
+        "accelerateddecay"
+      ]
+    },
+    {
+      "nome": "architectury-neoforge-20.1.17.jar",
+      "tamanho": 618823,
+      "sha256": "3b425ea322750cb62ca66ff5d090a6ab8381b218dc9fd961bd98cf3a148422ad",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/architectury-neoforge-20.1.17.jar",
+      "ids": [
+        "architectury"
+      ]
+    },
+    {
+      "nome": "fast-ip-ping-v1.0.12-mc26.1.2.jar",
+      "tamanho": 11321,
+      "sha256": "820a4503c2b4677e97fd485111936a404815e5f3ef96546c49e6da98abfed019",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/fast-ip-ping-v1.0.12-mc26.1.2.jar",
+      "ids": [
+        "fastipping"
+      ]
+    },
+    {
+      "nome": "mods_optimizer-neoforge-26.1.2-4.3.0.jar",
+      "tamanho": 186800,
+      "sha256": "28d3089e6385fd00f119aeec3cce544539ad36b8a79029c40a639ab09c2c9865",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/mods_optimizer-neoforge-26.1.2-4.3.0.jar",
+      "ids": [
+        "mods_optimizer"
+      ]
+    },
+    {
+      "nome": "sophisticatedbackpacks-26.1.2-3.26.20.2250.jar",
+      "tamanho": 1280414,
+      "sha256": "4b83d90b5cd14f3442eacf7fda35463acc3f31a4c35870173f9afac5600edcad",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/sophisticatedbackpacks-26.1.2-3.26.20.2250.jar",
+      "ids": [
+        "sophisticatedbackpacks"
+      ]
+    },
+    {
+      "nome": "sophisticatedcore-26.1.2-1.5.34.2469.jar",
+      "tamanho": 1886526,
+      "sha256": "37104795aaaac005c67e24014148623b8920f52b8b94f87ce78900c4f9f9cfb3",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/sophisticatedcore-26.1.2-1.5.34.2469.jar",
+      "ids": [
+        "sophisticatedcore"
+      ]
+    },
+    {
+      "nome": "sophisticatedstorage-26.1.2-1.5.130.2225.jar",
+      "tamanho": 2002719,
+      "sha256": "b2878c57558238099591ef0d00aaf0905c8c13d9709b8527722f817a28276dca",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/sophisticatedstorage-26.1.2-1.5.130.2225.jar",
+      "ids": [
+        "sophisticatedstorage"
       ]
     }
   ]
