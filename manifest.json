@@ -139,15 +139,6 @@
       ]
     },
     {
-      "nome": "mods_optimizer-neoforge-26.1.2-4.3.0.jar",
-      "tamanho": 186800,
-      "sha256": "28d3089e6385fd00f119aeec3cce544539ad36b8a79029c40a639ab09c2c9865",
-      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/mods_optimizer-neoforge-26.1.2-4.3.0.jar",
-      "ids": [
-        "mods_optimizer"
-      ]
-    },
-    {
       "nome": "sophisticatedbackpacks-26.1.2-3.26.20.2250.jar",
       "tamanho": 1280414,
       "sha256": "4b83d90b5cd14f3442eacf7fda35463acc3f31a4c35870173f9afac5600edcad",
