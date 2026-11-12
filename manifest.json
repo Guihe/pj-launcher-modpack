@@ -139,15 +139,6 @@
       ]
     },
     {
-      "nome": "architectury-neoforge-20.1.17.jar",
-      "tamanho": 618823,
-      "sha256": "3b425ea322750cb62ca66ff5d090a6ab8381b218dc9fd961bd98cf3a148422ad",
-      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/architectury-neoforge-20.1.17.jar",
-      "ids": [
-        "architectury"
-      ]
-    },
-    {
       "nome": "fast-ip-ping-v1.0.12-mc26.1.2.jar",
       "tamanho": 11321,
       "sha256": "820a4503c2b4677e97fd485111936a404815e5f3ef96546c49e6da98abfed019",
