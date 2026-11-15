@@ -660,6 +660,15 @@
       "ids": [
         "structure_pool_api"
       ]
+    },
+    {
+      "nome": "architectury-neoforge-20.1.17.jar",
+      "tamanho": 618823,
+      "sha256": "3b425ea322750cb62ca66ff5d090a6ab8381b218dc9fd961bd98cf3a148422ad",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/architectury-neoforge-20.1.17.jar",
+      "ids": [
+        "architectury"
+      ]
     }
   ]
 }
