@@ -669,6 +669,69 @@
       "ids": [
         "architectury"
       ]
+    },
+    {
+      "nome": "Better Revive - 2.2.1 - NeoForge - 26.1.2.jar",
+      "tamanho": 1605446,
+      "sha256": "313c64bedb94cc8e48f18aaf242eb3e90d8116481ba23f264fbab9adf92f6029",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/Better%20Revive%20-%202.2.1%20-%20NeoForge%20-%2026.1.2.jar",
+      "ids": [
+        "better_revive"
+      ]
+    },
+    {
+      "nome": "Better Revive X Curios - 1.0.1 - NeoForge - 26.1.2.jar",
+      "tamanho": 732446,
+      "sha256": "89ff48891b98c3c34df8e2d5948e2298e2a9c35d91921e83ad1dcfb0003c0e60",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/Better%20Revive%20X%20Curios%20-%201.0.1%20-%20NeoForge%20-%2026.1.2.jar",
+      "ids": [
+        "better_revive_curios"
+      ]
+    },
+    {
+      "nome": "CreativeCore_NEOFORGE_v2.14.16_mc26.1.2.jar",
+      "tamanho": 1345477,
+      "sha256": "db2596754d9b1ae49997d57030dafe0cad47b07e00a1314ff3522c553c14b5bc",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/CreativeCore_NEOFORGE_v2.14.16_mc26.1.2.jar",
+      "ids": [
+        "creativecore"
+      ]
+    },
+    {
+      "nome": "PlayerRevive_NEOFORGE_v2.1.2_mc26.1.2.jar",
+      "tamanho": 5305936,
+      "sha256": "08d530466939f1017fa5ae96fe9c520e12c68eceb76cffdef863131c9b3ac731",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/PlayerRevive_NEOFORGE_v2.1.2_mc26.1.2.jar",
+      "ids": [
+        "playerrevive"
+      ]
+    },
+    {
+      "nome": "revive_through_grass-0.1.1+26.1.2-NeoForge.jar",
+      "tamanho": 125477,
+      "sha256": "da5ce2cb660d4fb7386c4f7b4b9efe76c0fd7aed1a930bf4c0042a1cd39b0bdf",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/revive_through_grass-0.1.1%2B26.1.2-NeoForge.jar",
+      "ids": [
+        "revive_through_grass"
+      ]
+    },
+    {
+      "nome": "stackable-armor-trims-neoforge-3.0.0+26.1.jar",
+      "tamanho": 298215,
+      "sha256": "0fb0bb006fcb5b25e2a4150483f15526d75cccde9e9f4b8ef3eb11f8ca639751",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/stackable-armor-trims-neoforge-3.0.0%2B26.1.jar",
+      "ids": [
+        "stackabletrims"
+      ]
+    },
+    {
+      "nome": "yet_another_config_lib_v3-3.9.7+26.1-neoforge.jar",
+      "tamanho": 1116964,
+      "sha256": "44fa4df4c94606360fbd4a7dcc7feecae9632e12770e71812a70de92d240d004",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/yet_another_config_lib_v3-3.9.7%2B26.1-neoforge.jar",
+      "ids": [
+        "yet_another_config_lib_v3"
+      ]
     }
   ]
 }
