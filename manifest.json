@@ -759,6 +759,15 @@
       "ids": [
         "supermartijn642corelib"
       ]
+    },
+    {
+      "nome": "Chipped-5.0.0.jar",
+      "tamanho": 13946137,
+      "sha256": "df16b70f86a1a13069f193093d25f38f2aebc55424d3167e8d2a4599131ce096",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/Chipped-5.0.0.jar",
+      "ids": [
+        "chipped"
+      ]
     }
   ]
 }
