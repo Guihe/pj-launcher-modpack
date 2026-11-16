@@ -786,6 +786,15 @@
       "ids": [
         "athena"
       ]
+    },
+    {
+      "nome": "lootr-neoforge-26.1.2-1.23.38.123.jar",
+      "tamanho": 1514826,
+      "sha256": "ee1b35b0ddb890936795031859ad99a2cc1b6f88a46769303bca8e0b4b1ac048",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/lootr-neoforge-26.1.2-1.23.38.123.jar",
+      "ids": [
+        "lootr"
+      ]
     }
   ]
 }
