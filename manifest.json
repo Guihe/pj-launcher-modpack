@@ -768,6 +768,24 @@
       "ids": [
         "chipped"
       ]
+    },
+    {
+      "nome": "ResourcefulLib-4.0.1.jar",
+      "tamanho": 447035,
+      "sha256": "4ccedbc89c82a73132eb3a83a5dd3b1923c62d1373aa5cd707780dc5160e9e15",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/ResourcefulLib-4.0.1.jar",
+      "ids": [
+        "resourcefullib"
+      ]
+    },
+    {
+      "nome": "athena-4.7.3.jar",
+      "tamanho": 105020,
+      "sha256": "e0cf1eb366d8ada36c3f03cddae01be2b11b90a6684849e829b89c0ffac15888",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/athena-4.7.3.jar",
+      "ids": [
+        "athena"
+      ]
     }
   ]
 }
