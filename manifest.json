@@ -795,6 +795,33 @@
       "ids": [
         "lootr"
       ]
+    },
+    {
+      "nome": "better_witch_huts-neoforge-26.1.2-2.0.0.jar",
+      "tamanho": 596680,
+      "sha256": "56a7d3a934e4925912c73208840585a5b2efaad4aec13bd041a59f5c239dc6fe",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/better_witch_huts-neoforge-26.1.2-2.0.0.jar",
+      "ids": [
+        "better_witch_huts"
+      ]
+    },
+    {
+      "nome": "remnant_mobs-neoforge-26.1.2-3.2.0.jar",
+      "tamanho": 572605,
+      "sha256": "fe0007bc2b359ec0884eaa7d7dbb15245db35c84a41b52e4bc0395e1b57ebd04",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/remnant_mobs-neoforge-26.1.2-3.2.0.jar",
+      "ids": [
+        "remnant_mobs"
+      ]
+    },
+    {
+      "nome": "remnantminimaps-neoforge-26.1.2-2.1.0.jar",
+      "tamanho": 1015652,
+      "sha256": "e5ee57952488041962ac33ff848102e5a90f59fbef8d76236c65432a69aa0881",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/remnantminimaps-neoforge-26.1.2-2.1.0.jar",
+      "ids": [
+        "remnantminimaps"
+      ]
     }
   ]
 }
