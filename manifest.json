@@ -634,10 +634,10 @@
       ]
     },
     {
-      "nome": "voicechat-neoforge-2.6.22+26.1.2.jar",
-      "tamanho": 4919344,
-      "sha256": "429ca0787c995e17a77586a3714ff25c61ea4ea148e41c155dd9c78c6eddc9ea",
-      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/voicechat-neoforge-2.6.22%2B26.1.2.jar",
+      "nome": "voicechat-neoforge-2.6.27+26.1.2.jar",
+      "tamanho": 4936687,
+      "sha256": "a506629b43db60a0637617608757321f031ae678a6d9b226e3b704c3e4eebf05",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/voicechat-neoforge-2.6.27%2B26.1.2.jar",
       "ids": [
         "voicechat",
         "voicechat_api"
@@ -815,12 +815,84 @@
       ]
     },
     {
-      "nome": "remnantminimaps-neoforge-26.1.2-2.1.0.jar",
-      "tamanho": 1015652,
-      "sha256": "e5ee57952488041962ac33ff848102e5a90f59fbef8d76236c65432a69aa0881",
-      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/remnantminimaps-neoforge-26.1.2-2.1.0.jar",
+      "nome": "Better-Party-X-Simple-Voice-NeoForge-26.1.2-1.0.3.jar",
+      "tamanho": 1544547,
+      "sha256": "5256854fe8f88faefe1972d7c0ed1d8406f9b27ee5a423a02a2591303ee66840",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/Better-Party-X-Simple-Voice-NeoForge-26.1.2-1.0.3.jar",
       "ids": [
-        "remnantminimaps"
+        "better_party_voice_chat"
+      ]
+    },
+    {
+      "nome": "apexcore-26.1.4.jar",
+      "tamanho": 314502,
+      "sha256": "c7036ed0986d22e90de917cd5a4e87883af6dfb4b30658777f58dd95878cb3d6",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/apexcore-26.1.4.jar",
+      "ids": [
+        "apexcore"
+      ]
+    },
+    {
+      "nome": "better-party-neoforge-26.1.2-1.1.9.jar",
+      "tamanho": 2744608,
+      "sha256": "c94dee98de8e11608631be2a873f5c98e792c6d131d8d260fdf972ccb5f62dec",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/better-party-neoforge-26.1.2-1.1.9.jar",
+      "ids": [
+        "better_party"
+      ]
+    },
+    {
+      "nome": "better-party-x-waystones-neoforge-26.1.2-1.0.3.jar",
+      "tamanho": 1789935,
+      "sha256": "68d57d03e2b3b73313ecee82b6c734ba6a4ef7f806f486bee0d7fe3ac67a2e5e",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/better-party-x-waystones-neoforge-26.1.2-1.0.3.jar",
+      "ids": [
+        "better_party_x_waystones"
+      ]
+    },
+    {
+      "nome": "dawnoftimebuilder-neoforge-26.1.2-0.10.0.jar",
+      "tamanho": 3583078,
+      "sha256": "1340ce896c70efc761a5cd097c96f262b882583f363d2f739259b8cbd462b2f6",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/dawnoftimebuilder-neoforge-26.1.2-0.10.0.jar",
+      "ids": [
+        "dawnoftimebuilder"
+      ]
+    },
+    {
+      "nome": "fantasyfurniture-26.1.9.jar",
+      "tamanho": 251929,
+      "sha256": "d51473dad5c14ae95116f97ab9e5535f04520b158558750b1a7ae2c77ec0ade4",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/fantasyfurniture-26.1.9.jar",
+      "ids": [
+        "fantasyfurniture"
+      ]
+    },
+    {
+      "nome": "framework-neoforge-26.1.2-0.13.23.jar",
+      "tamanho": 514297,
+      "sha256": "5c5a51df7236e456fe5e62c757839e3e13a34c8ba96c306139114f1a4b7a8b71",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/framework-neoforge-26.1.2-0.13.23.jar",
+      "ids": [
+        "framework"
+      ]
+    },
+    {
+      "nome": "furniture_mod_tools_refurbished-1.0.0-neoforge-26.1.1.jar",
+      "tamanho": 233189,
+      "sha256": "ea804a1cd924c832faa90ed9d1f7a8df28b23df0b252a2a220a1a2a1d3a163a8",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/furniture_mod_tools_refurbished-1.0.0-neoforge-26.1.1.jar",
+      "ids": [
+        "furniture_mod_tools_refurbished"
+      ]
+    },
+    {
+      "nome": "refurbished_furniture-neoforge-26.1.2-1.0.23.jar",
+      "tamanho": 7308119,
+      "sha256": "99a37904af456655e05737b64e38211a36167c4d907c4d2d05fa9a877a5c6abf",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/refurbished_furniture-neoforge-26.1.2-1.0.23.jar",
+      "ids": [
+        "refurbished_furniture"
       ]
     }
   ]
