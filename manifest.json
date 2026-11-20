@@ -184,24 +184,6 @@
       ]
     },
     {
-      "nome": "archers-neoforge-3.1.3.002+26.1.2.jar",
-      "tamanho": 946783,
-      "sha256": "ec1c9f213a3c9b4725ebfdd471b9ce54e2be448dec4e840e28fa3850c2e0087f",
-      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/archers-neoforge-3.1.3.002%2B26.1.2.jar",
-      "ids": [
-        "archers"
-      ]
-    },
-    {
-      "nome": "armor_model_api-neoforge-1.1.2+26.1.2.jar",
-      "tamanho": 99540,
-      "sha256": "09a7ce8f84d393d90821ae9bcb5c796a3587f9127add7a316a03106e19a47cc3",
-      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/armor_model_api-neoforge-1.1.2%2B26.1.2.jar",
-      "ids": [
-        "armor_model_api"
-      ]
-    },
-    {
       "nome": "artifacts-neoforge-15.1.3.jar",
       "tamanho": 1233255,
       "sha256": "9284f552b722637e6951d7d49723fb96f58c5a93f868d7ac58e9633be5a30209",
@@ -226,15 +208,6 @@
       "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/bettercombat-neoforge-3.2.2%2B26.1.2.jar",
       "ids": [
         "bettercombat"
-      ]
-    },
-    {
-      "nome": "bundle-api-neoforge-3.0.0+26.1.2.jar",
-      "tamanho": 110075,
-      "sha256": "be1931a448203d22c13c9685b851b1c6c9121b63e072bc9999e72dec94b8fe27",
-      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/bundle-api-neoforge-3.0.0%2B26.1.2.jar",
-      "ids": [
-        "bundleapi"
       ]
     },
     {
@@ -328,15 +301,6 @@
       ]
     },
     {
-      "nome": "jewelry-neoforge-2.5.1+26.1.2.jar",
-      "tamanho": 655531,
-      "sha256": "c71c25cdfdb956d8635edb9a06d544abfcc5997187190c9ea75b34202b7c93fb",
-      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/jewelry-neoforge-2.5.1%2B26.1.2.jar",
-      "ids": [
-        "jewelry"
-      ]
-    },
-    {
       "nome": "medieval_buildings-neoforge-26.1.2-1.2.0.jar",
       "tamanho": 217537,
       "sha256": "9b7f91e56979aaac38eb1b00f35946ff0b108adf2e27ab0d8d4987e09b0157bc",
@@ -373,69 +337,6 @@
       ]
     },
     {
-      "nome": "paladins-neoforge-3.1.3.002+26.1.2.jar",
-      "tamanho": 3107395,
-      "sha256": "b28276744c5d41fa3a9b62ee20584c617b1a30962f19152d2fecf4b5e111bf59",
-      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/paladins-neoforge-3.1.3.002%2B26.1.2.jar",
-      "ids": [
-        "paladins"
-      ]
-    },
-    {
-      "nome": "ranged_weapon_api-neoforge-4.0.0+26.1.2.jar",
-      "tamanho": 159886,
-      "sha256": "0f2b46880702d98f706ba7265dfa6962f3a79d6a31a1a695afaabf5b1bf5fced",
-      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/ranged_weapon_api-neoforge-4.0.0%2B26.1.2.jar",
-      "ids": [
-        "ranged_weapon_api"
-      ]
-    },
-    {
-      "nome": "relics-neoforge-1.4.1+26.1.2.jar",
-      "tamanho": 2196015,
-      "sha256": "67f8e98d34bb53d569366469e7a9b86059c99496a6d22cd8ca4578b9e1cbe284",
-      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/relics-neoforge-1.4.1%2B26.1.2.jar",
-      "ids": [
-        "relics_rpgs"
-      ]
-    },
-    {
-      "nome": "rogues-neoforge-3.1.3.002+26.1.2.jar",
-      "tamanho": 1781205,
-      "sha256": "6405fa86bf4c168cfd3f5c70424adf034ed11bf7aedddadc6eaf5cf655b1777c",
-      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/rogues-neoforge-3.1.3.002%2B26.1.2.jar",
-      "ids": [
-        "rogues"
-      ]
-    },
-    {
-      "nome": "runes-neoforge-1.3.2+26.1.2.jar",
-      "tamanho": 389115,
-      "sha256": "2ebc69b184ffa3d3f9b530063552ee8f5a50fb2c9dd3b61f453670b3f3a5d72b",
-      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/runes-neoforge-1.3.2%2B26.1.2.jar",
-      "ids": [
-        "runes"
-      ]
-    },
-    {
-      "nome": "spell_engine-neoforge-1.10.9+26.1.2.jar",
-      "tamanho": 4674124,
-      "sha256": "1f0b9b275e613a122f7f69039874b361d25f88fe124a2e6f1a2f4885443cab13",
-      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/spell_engine-neoforge-1.10.9%2B26.1.2.jar",
-      "ids": [
-        "spell_engine"
-      ]
-    },
-    {
-      "nome": "spell_power-neoforge-1.6.2+26.1.2.jar",
-      "tamanho": 221715,
-      "sha256": "0f9cf2758a190d9975ecf64be1156b5a9b95c70c638eab35408d43b3d51d19e3",
-      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/spell_power-neoforge-1.6.2%2B26.1.2.jar",
-      "ids": [
-        "spell_power"
-      ]
-    },
-    {
       "nome": "towers_of_chambers-neoforge-26.1.2-44.57.jar",
       "tamanho": 478734,
       "sha256": "49be43d0fc26ef449a97b5f3463d0af46cabd65a0c19b6ca61937d9904cdc5ea",
@@ -469,15 +370,6 @@
       "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/waystones-neoforge-26.1.2-26.1.2.17.jar",
       "ids": [
         "waystones"
-      ]
-    },
-    {
-      "nome": "wizards-neoforge-3.1.3.002+26.1.2.jar",
-      "tamanho": 4544737,
-      "sha256": "30de0198c2d7a26e684cc4e501f83858ff532cc8d0841a81c13d525b2369294c",
-      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/wizards-neoforge-3.1.3.002%2B26.1.2.jar",
-      "ids": [
-        "wizards"
       ]
     },
     {
@@ -553,15 +445,6 @@
       ]
     },
     {
-      "nome": "grim-kingdoms-lost-structures-ruins-vanilla-edition-2.0.0.jar",
-      "tamanho": 10381553,
-      "sha256": "4394292a58ef3878722b117bdcac2516d1d0557d61b5ea38f9fb4bc0971694de",
-      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/grim-kingdoms-lost-structures-ruins-vanilla-edition-2.0.0.jar",
-      "ids": [
-        "mr_grim_kingdomsloststructuresruinsvanillaedition"
-      ]
-    },
-    {
       "nome": "heavy-core-duplication-1.11.jar",
       "tamanho": 643553,
       "sha256": "70358c55b10ee890d75d53838485e3e2b758c385fe853d66f82ef39f02f84318",
@@ -598,15 +481,6 @@
       ]
     },
     {
-      "nome": "rpg-enchantments-1.1.2.jar",
-      "tamanho": 758097,
-      "sha256": "5c82991068bf2250666ecce0bddfd7816f57a630eb4f1dc8d00eb7c377f23e3b",
-      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/rpg-enchantments-1.1.2.jar",
-      "ids": [
-        "mr_rpg_enchantments"
-      ]
-    },
-    {
       "nome": "shogi-neoforge-26.1.2-26.1.2.12.jar",
       "tamanho": 424108,
       "sha256": "7a211e2899f6bbaded2c03a468f651fece0bec22c1738b907999a8fefb75e2d8",
@@ -634,16 +508,6 @@
       ]
     },
     {
-      "nome": "voicechat-neoforge-2.6.27+26.1.2.jar",
-      "tamanho": 4936687,
-      "sha256": "a506629b43db60a0637617608757321f031ae678a6d9b226e3b704c3e4eebf05",
-      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/voicechat-neoforge-2.6.27%2B26.1.2.jar",
-      "ids": [
-        "voicechat",
-        "voicechat_api"
-      ]
-    },
-    {
       "nome": "structure_pool_api-neoforge-1.3.0+26.1.2.jar",
       "tamanho": 126659,
       "sha256": "1e7282e01618f7a8f9a9c1f3d8b47d1e1ee1844fe09f5c03f4517a94be4f33c5",
@@ -659,24 +523,6 @@
       "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/architectury-neoforge-20.1.17.jar",
       "ids": [
         "architectury"
-      ]
-    },
-    {
-      "nome": "Better Revive - 2.2.1 - NeoForge - 26.1.2.jar",
-      "tamanho": 1605446,
-      "sha256": "313c64bedb94cc8e48f18aaf242eb3e90d8116481ba23f264fbab9adf92f6029",
-      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/Better%20Revive%20-%202.2.1%20-%20NeoForge%20-%2026.1.2.jar",
-      "ids": [
-        "better_revive"
-      ]
-    },
-    {
-      "nome": "Better Revive X Curios - 1.0.1 - NeoForge - 26.1.2.jar",
-      "tamanho": 732446,
-      "sha256": "89ff48891b98c3c34df8e2d5948e2298e2a9c35d91921e83ad1dcfb0003c0e60",
-      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/Better%20Revive%20X%20Curios%20-%201.0.1%20-%20NeoForge%20-%2026.1.2.jar",
-      "ids": [
-        "better_revive_curios"
       ]
     },
     {
@@ -797,24 +643,6 @@
       ]
     },
     {
-      "nome": "remnant_mobs-neoforge-26.1.2-3.2.0.jar",
-      "tamanho": 572605,
-      "sha256": "fe0007bc2b359ec0884eaa7d7dbb15245db35c84a41b52e4bc0395e1b57ebd04",
-      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/remnant_mobs-neoforge-26.1.2-3.2.0.jar",
-      "ids": [
-        "remnant_mobs"
-      ]
-    },
-    {
-      "nome": "Better-Party-X-Simple-Voice-NeoForge-26.1.2-1.0.3.jar",
-      "tamanho": 1544547,
-      "sha256": "5256854fe8f88faefe1972d7c0ed1d8406f9b27ee5a423a02a2591303ee66840",
-      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/Better-Party-X-Simple-Voice-NeoForge-26.1.2-1.0.3.jar",
-      "ids": [
-        "better_party_voice_chat"
-      ]
-    },
-    {
       "nome": "apexcore-26.1.4.jar",
       "tamanho": 314502,
       "sha256": "c7036ed0986d22e90de917cd5a4e87883af6dfb4b30658777f58dd95878cb3d6",
@@ -824,39 +652,12 @@
       ]
     },
     {
-      "nome": "better-party-neoforge-26.1.2-1.1.9.jar",
-      "tamanho": 2744608,
-      "sha256": "c94dee98de8e11608631be2a873f5c98e792c6d131d8d260fdf972ccb5f62dec",
-      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/better-party-neoforge-26.1.2-1.1.9.jar",
-      "ids": [
-        "better_party"
-      ]
-    },
-    {
-      "nome": "better-party-x-waystones-neoforge-26.1.2-1.0.3.jar",
-      "tamanho": 1789935,
-      "sha256": "68d57d03e2b3b73313ecee82b6c734ba6a4ef7f806f486bee0d7fe3ac67a2e5e",
-      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/better-party-x-waystones-neoforge-26.1.2-1.0.3.jar",
-      "ids": [
-        "better_party_x_waystones"
-      ]
-    },
-    {
       "nome": "dawnoftimebuilder-neoforge-26.1.2-0.10.0.jar",
       "tamanho": 3583078,
       "sha256": "1340ce896c70efc761a5cd097c96f262b882583f363d2f739259b8cbd462b2f6",
       "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/dawnoftimebuilder-neoforge-26.1.2-0.10.0.jar",
       "ids": [
         "dawnoftimebuilder"
-      ]
-    },
-    {
-      "nome": "fantasyfurniture-26.1.9.jar",
-      "tamanho": 251929,
-      "sha256": "d51473dad5c14ae95116f97ab9e5535f04520b158558750b1a7ae2c77ec0ade4",
-      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/fantasyfurniture-26.1.9.jar",
-      "ids": [
-        "fantasyfurniture"
       ]
     },
     {
