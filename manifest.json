@@ -274,15 +274,6 @@
       ]
     },
     {
-      "nome": "Terrain Slabs v3.3.3-26.1.2.jar",
-      "tamanho": 319885,
-      "sha256": "1cc9861ffc922f1ff6a38bf80b291d99c2651ba069e5b5726c90405a1953d0d4",
-      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/Terrain%20Slabs%20v3.3.3-26.1.2.jar",
-      "ids": [
-        "terrain_slabs"
-      ]
-    },
-    {
       "nome": "YungsApi-26.1.2-NeoForge-6.1.3.jar",
       "tamanho": 439024,
       "sha256": "cff0f38b3192bc0b1e89ab43a5d11bc26f10e3aafc40d7c1d5e8d20d59f7d683",
@@ -685,6 +676,105 @@
       "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/refurbished_furniture-neoforge-26.1.2-1.0.23.jar",
       "ids": [
         "refurbished_furniture"
+      ]
+    },
+    {
+      "nome": "archers-neoforge-3.1.3.002+26.1.2.jar",
+      "tamanho": 946783,
+      "sha256": "ec1c9f213a3c9b4725ebfdd471b9ce54e2be448dec4e840e28fa3850c2e0087f",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/archers-neoforge-3.1.3.002%2B26.1.2.jar",
+      "ids": [
+        "archers"
+      ]
+    },
+    {
+      "nome": "armor_model_api-neoforge-1.1.2+26.1.2.jar",
+      "tamanho": 99540,
+      "sha256": "09a7ce8f84d393d90821ae9bcb5c796a3587f9127add7a316a03106e19a47cc3",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/armor_model_api-neoforge-1.1.2%2B26.1.2.jar",
+      "ids": [
+        "armor_model_api"
+      ]
+    },
+    {
+      "nome": "bundle-api-neoforge-3.0.0+26.1.2.jar",
+      "tamanho": 110075,
+      "sha256": "be1931a448203d22c13c9685b851b1c6c9121b63e072bc9999e72dec94b8fe27",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/bundle-api-neoforge-3.0.0%2B26.1.2.jar",
+      "ids": [
+        "bundleapi"
+      ]
+    },
+    {
+      "nome": "irons_lib-26.1.2-2.4.0.jar",
+      "tamanho": 420821,
+      "sha256": "99ae377ef18faadad669e1cf413ad2fccfb94188036dd3871cfee0ba6ace629c",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/irons_lib-26.1.2-2.4.0.jar",
+      "ids": [
+        "irons_lib"
+      ]
+    },
+    {
+      "nome": "paladins-neoforge-3.1.3.002+26.1.2.jar",
+      "tamanho": 3107395,
+      "sha256": "b28276744c5d41fa3a9b62ee20584c617b1a30962f19152d2fecf4b5e111bf59",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/paladins-neoforge-3.1.3.002%2B26.1.2.jar",
+      "ids": [
+        "paladins"
+      ]
+    },
+    {
+      "nome": "ranged_weapon_api-neoforge-4.0.0+26.1.2.jar",
+      "tamanho": 159886,
+      "sha256": "0f2b46880702d98f706ba7265dfa6962f3a79d6a31a1a695afaabf5b1bf5fced",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/ranged_weapon_api-neoforge-4.0.0%2B26.1.2.jar",
+      "ids": [
+        "ranged_weapon_api"
+      ]
+    },
+    {
+      "nome": "rogues-neoforge-3.1.3.002+26.1.2.jar",
+      "tamanho": 1781205,
+      "sha256": "6405fa86bf4c168cfd3f5c70424adf034ed11bf7aedddadc6eaf5cf655b1777c",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/rogues-neoforge-3.1.3.002%2B26.1.2.jar",
+      "ids": [
+        "rogues"
+      ]
+    },
+    {
+      "nome": "runes-neoforge-1.3.2+26.1.2.jar",
+      "tamanho": 389115,
+      "sha256": "2ebc69b184ffa3d3f9b530063552ee8f5a50fb2c9dd3b61f453670b3f3a5d72b",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/runes-neoforge-1.3.2%2B26.1.2.jar",
+      "ids": [
+        "runes"
+      ]
+    },
+    {
+      "nome": "spell_engine-neoforge-1.10.9+26.1.2.jar",
+      "tamanho": 4674124,
+      "sha256": "1f0b9b275e613a122f7f69039874b361d25f88fe124a2e6f1a2f4885443cab13",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/spell_engine-neoforge-1.10.9%2B26.1.2.jar",
+      "ids": [
+        "spell_engine"
+      ]
+    },
+    {
+      "nome": "spell_power-neoforge-1.6.2+26.1.2.jar",
+      "tamanho": 221715,
+      "sha256": "0f9cf2758a190d9975ecf64be1156b5a9b95c70c638eab35408d43b3d51d19e3",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/spell_power-neoforge-1.6.2%2B26.1.2.jar",
+      "ids": [
+        "spell_power"
+      ]
+    },
+    {
+      "nome": "wizards-neoforge-3.1.3.002+26.1.2.jar",
+      "tamanho": 4544737,
+      "sha256": "30de0198c2d7a26e684cc4e501f83858ff532cc8d0841a81c13d525b2369294c",
+      "url": "https://raw.githubusercontent.com/Guihe/pj-launcher-modpack/main/mods/wizards-neoforge-3.1.3.002%2B26.1.2.jar",
+      "ids": [
+        "wizards"
       ]
     }
   ]
